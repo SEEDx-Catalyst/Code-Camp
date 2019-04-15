@@ -6,8 +6,10 @@ It will be a 12 - 20 hours bite-size virtual coding initiative where you get wit
 ## Approach
 - Bi-monthly code challenges to boost development of PoCs
 - Indication of your skill-sets via the survey
-- Team Formation
+- Team Formation (Shuffles every round)
+- Team communication via Slack Channels
 - Learn, Try, Build
+- Submission via Github
 
 ## How to participate?
 1. Complete this 2 minutes [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeZIuM2x_oPR5NWkRDkyyLbfRq7G9mD4I3MVHFzuha9Qxyx7Q/viewform)
