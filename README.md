@@ -1,7 +1,7 @@
 # Code-Camp
 SAP SME SEEDx Code Camp is an micro initiative targetting SME developers to get together and code with cross disciplines and organisations. The purpose is to create a cohesive community of continuous and open learning.
 
-It will be a 12 - 20 hours bite-size virtual coding initiative where you get with your teams and hack specific themes e.g. IoT, ML/AI. etc.
+It will be a 12 - 20 hours bite-size virtual coding initiative where you get with your teams and hack specific themes e.g. IoT, ML/AI. etc. Of course, this is just a guideline for you to follow, so that you can work the effort & time duration to spend in your teams.
 
 ## Approach
 - Bi-monthly code challenges to boost development of PoCs
