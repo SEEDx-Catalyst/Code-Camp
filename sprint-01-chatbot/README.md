@@ -32,9 +32,8 @@ If your chatbot can perform other business operations. [(Hint)](https://github.c
 - Modify / Innovation solution to your own
 
 ## How to Submit
+- [How to upload into Github](https://www.youtube.com/watch?v=Xlz9-wV1Uxs)
 - Upload your solution in your teams' dedicated folder
 - Upload 1 minute of less demo video
-- Push into Github
 - More details via email (let me know if you didn't receive the email)
-- [How to upload into Github](https://www.youtube.com/watch?v=Xlz9-wV1Uxs)
 
