@@ -10,8 +10,8 @@ To develop a chatbot using SAP Conversational AI.
 Middle-tier / Backend Developer, Chatbot Developer
 
 ## Main Tasks: 
-Your chatbot must know how to answer, “What is the top 5 opportunity in my business”.
-(NEW) Deploy / Connect the bot in an interface - Messenger, Slack, LINE, etc.
+1. Your chatbot must know how to answer, “What is the top 5 opportunity in my business”.
+2. (NEW) Deploy / Connect the bot in an interface - Messenger, Slack, LINE, etc.
 
 ## Bonus Tasks: 
 If your chatbot can perform other business operations. [(Hint)](https://github.com/B1SA/smb-recast-bot)
