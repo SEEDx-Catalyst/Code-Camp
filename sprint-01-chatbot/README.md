@@ -11,14 +11,15 @@ Middle-tier / Backend Developer, Chatbot Developer
 
 ## Main Tasks: 
 Your chatbot must know how to answer, “What is the top 5 opportunity in my business”.
+(NEW) Deploy / Connect the bot in an interface - Messenger, Slack, LINE, etc.
 
 ## Bonus Tasks: 
 If your chatbot can perform other business operations. [(Hint)](https://github.com/B1SA/smb-recast-bot)
 
 ## Important Timeline of Events:
 - 29 April 2019: Community Call to address any issues / concerns
-- 6 May 2019: Submission of Solution
-- 8 May 2019: Announcement of "The Best Chatbot"
+- 13 May 2019: Submission of Solution
+- To be disclosed: Announcement of "The Best Chatbot"
 
 ## Helpline:
 - Contact me via Slack if you face with any issues.
@@ -32,4 +33,7 @@ If your chatbot can perform other business operations. [(Hint)](https://github.c
 
 ## How to Submit
 - Upload your solution in your teams' dedicated folder
-< more details will be updated here soon >
+- Upload 1 minute of less demo video
+- Push into Github
+- More details via email (let me know if you didn't receive the email)
+
