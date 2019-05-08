@@ -13,6 +13,17 @@ Middle-tier / Backend Developer, Chatbot Developer
 1. Your chatbot must know how to answer, “What is the top 5 opportunity in my business”.
 2. (NEW) Deploy / Connect the bot in an interface - Messenger, Slack, LINE, etc.
 
+## Requirements:
+1. For the opportunities analysis question “What are the top 5 sales opportunities”,  please reply the result the oppr id, customer, weighted amount,potential amount, closing percentage,stage, for example:
+100(60%) / 90000 INR (weighted amount)
+C20000-Norm Thomposon
+100000 INR (total amount)
+Final Negotiation
+
+2. Please connect to a channel, such as fb messenger, whatsapp, line, slack etc. the demo video should show the bot with the channel instead of debug.
+
+And please feel free to use /n in the subtitle for a seperate line. otherwise, subtitle is too long to display.
+
 ## Bonus Tasks: 
 If your chatbot can perform other business operations. [(Hint)](https://github.com/B1SA/smb-recast-bot)
 
