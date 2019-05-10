@@ -1,0 +1,27 @@
+{
+  "name": "presales-assistance",
+  "version": "1.0.0",
+  "description": "presales assistance webhook for SAP Conversational AI bot",
+  "main": "presales_assistance_webhook.js",
+  "scripts": {
+    "start": "node presales_assistance_webhook.js"
+  },
+  "keywords": [
+    "b1",
+    "byd",
+    "bot",
+    "chatbot",
+    "conversational ui",
+    "recast",
+    "nlp"
+  ],
+  "engines": {
+    "node": "^6.12.0"
+  },
+  "author": "Yatsea Li",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}

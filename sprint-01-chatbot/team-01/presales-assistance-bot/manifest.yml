@@ -1,0 +1,6 @@
+---
+applications:
+- name: presales-assistance
+  memory: 64m
+  instances: 1
+    
