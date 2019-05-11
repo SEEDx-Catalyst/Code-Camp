@@ -9,7 +9,7 @@ https://github.com/YatseaLi/hello-world-bot
 
 ![SAP Conversational AI](https://i.imgur.com/mKxXnBu.png)
 
-SEEDx Chatbot Team1
+# SEEDx Chatbot Team1
 
 ## Purpose
 To develop a chatbot using SAP Conversational AI.
