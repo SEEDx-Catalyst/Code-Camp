@@ -4,6 +4,9 @@ https://github.com/YatseaLi/hello-world-bot
 
 # Code-Camp-Team1
 
+![Output](https://github.com/SEEDx-Catalyst/Code-Camp/blob/master/sprint-01-chatbot/team-01/presales-assistance-bot/slack_presales-assistance-bot%20v2.1_1.gif)
+
+
 ![Output](https://github.com/SEEDx-Catalyst/Code-Camp/blob/master/sprint-01-chatbot/team-01/presales-assistance-bot/presales-assistance-bot%20v1.gif)
 
 
