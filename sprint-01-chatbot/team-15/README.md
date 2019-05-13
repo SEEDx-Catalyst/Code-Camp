@@ -21,7 +21,7 @@ git clone https://github.com/YatseaLi/hello-world-bot.git
 
 ## Deploy the webhook project
 ### Local Deployment
-Prequisites: You have NodeJS 6.12 or above run-time installed in your local machine.
+Prequisites: You have JDK 8 or above run-time installed in your local machine.
 
 1. Download and install the dependent java development kit (jdk)
    ```sh
