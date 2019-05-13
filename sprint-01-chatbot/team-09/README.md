@@ -3,9 +3,11 @@ Buisness Opportunities
 A Buisness Opportunities webhook nodejs sample for a SAP Conversation AI bot.
 
 Introduciton
+
 A Buisness Opportunities bot shows how you reply with text message. The nlp result by SAP Conversational AI is sent in the request body, in which you can know about the intent and entities etc as a result of your bot training. Usually, the intent indicates a service to be fulfiled by the bot.
 
 Deploy the webhook project
+
 Local Deployment
 Prequisites: You have NodeJS 6.12 or above run-time installed in your local machine.
 
