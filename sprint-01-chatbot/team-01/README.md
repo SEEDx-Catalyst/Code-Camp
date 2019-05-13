@@ -1,6 +1,6 @@
 # Code-Camp-Team1
 
-# instructions on how to deploy your solution.
+# instructions on how to deploy solution.
 
 download code folder from https://github.com/SEEDx-Catalyst/Code-Camp/tree/master/sprint-01-chatbot/team-01
 ``
