@@ -4,16 +4,16 @@
 Mobility
 
 ## Purpose
-Mobile user experience is becoming a default interface. Thus, accessing into your ERP functions anytime & anywhere.
+Mobile user experience is becoming a default interface. Thus, accessing into your ERP functions anytime & anywhere.
 
 ## Team Formation Required: 
 Front-end, Middle-tier, Backend or Full Stack Developer
 
 ## Main Tasks: 
-Your Native Mobile app must be able to be run from the mobile device, using one of the project template (i.e. List View), bound to an ERP data service (Orders, Invoice).To be able to search an order and post an invoice from the order.To be able to check my Open Sales Order.
+Your Native Mobile app must be able to be run from the mobile device, using one of the project template (i.e. List View), bound to an ERP data service (Orders, Invoice). To be able to search an order and post an invoice from the order. To be able to check my Open Sales Order.
 
-## Bonus Tasks (Any one of the following):
-1. Charts & Visualisation of Data
+## Bonus Tasks (Any one of the following):
+1. Charts & Visualisation of Data
 2. Developing using MDK & Mobile Cards.
 
 ## Important Timeline of Events:
