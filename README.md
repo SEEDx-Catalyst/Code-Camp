@@ -17,3 +17,10 @@ It will be a 12 - 20 hours bite-size virtual coding initiative where you get wit
 1. Complete this 2 minutes [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeZIuM2x_oPR5NWkRDkyyLbfRq7G9mD4I3MVHFzuha9Qxyx7Q/viewform)
 2. You will be in-touch via Email once the team formation is done
 3. Join our [Slack Channel](https://join.slack.com/t/smb-seedx/shared_invite/enQtMjU1OTYzMzQ4MDA1LTYxYTY0OGQzODc1NmI4NjMxMjZlY2JjNGU1ZWMwNmFkNzdkZmIwYzQ4OGVmNzIzNTJmNGQ1MDNlMjE2Y2E2NjQ)
+
+# Author
+- [Yatsea Li](https://github.com/YatseaLi)
+- [Jacob Tan](https://github.com/jacobtan89)
+
+# License
+Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved. This file repository licensed under the SAP SAMPLE CODE LICENSE AGREEMENT except as noted otherwise in the [LICENSE](https://github.com/SEEDx-Catalyst/Code-Camp/blob/master/LICENSE).
