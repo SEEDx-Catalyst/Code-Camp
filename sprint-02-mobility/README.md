@@ -27,16 +27,16 @@ Creating a Native iOS or Android Mobile app for the sales employee with SCP SDK 
 - Contact me via Slack if you face with any issues.
 
 ## Steps to Get Started
-- Research, Read & Learn about it
-[SCP SDK for Android](https://help.sap.com/doc/0c3db190da2c4866a1f2906763d4f59a/Cloud/en-US/747d6d2ea0534ba99612920c7402631a.html) | 
-[SCP SDK for iOS](https://help.sap.com/doc/0c3db190da2c4866a1f2906763d4f59a/Cloud/en-US/4baa11599cdf40a88dbdde436ef1266e.html) | 
-[Mobile Development Kit](https://help.sap.com/doc/0c3db190da2c4866a1f2906763d4f59a/Cloud/en-US/8a4db22f842e4f37874eae5ce9d2d4b1.html?zoom=0.6)
-[Buildblock](https://github.com/B1SA/hackathon/tree/master/iOSFiori)
-- Prepare own environment
-(For B1) B1H 9.3 PL04 or higher (OData v4.0)
-(For ByD) [OData Provisioning in SAP ByD](https://github.com/SAP/sapbydesign-api-samples)  (OData v2.0)
-(Xcode + iOS SDK Assistant) or (Android Studio + SCP SDK plugin) or (SAP Web IDE for Full Stack + Mobile Service Development Plugin )
-- Code
+1. Research, Read & Learn about it
+- [SCP SDK for Android](https://help.sap.com/doc/0c3db190da2c4866a1f2906763d4f59a/Cloud/en-US/747d6d2ea0534ba99612920c7402631a.html) | 
+- [SCP SDK for iOS](https://help.sap.com/doc/0c3db190da2c4866a1f2906763d4f59a/Cloud/en-US/4baa11599cdf40a88dbdde436ef1266e.html) | 
+- [Mobile Development Kit](https://help.sap.com/doc/0c3db190da2c4866a1f2906763d4f59a/Cloud/en-US/8a4db22f842e4f37874eae5ce9d2d4b1.html?zoom=0.6)
+- [Buildblock](https://github.com/B1SA/hackathon/tree/master/iOSFiori)
+2. Prepare own environment
+- (For B1) B1H 9.3 PL04 or higher (OData v4.0)
+- (For ByD) [OData Provisioning in SAP ByD](https://github.com/SAP/sapbydesign-api-samples)  (OData v2.0)
+- (Xcode + iOS SDK Assistant) or (Android Studio + SCP SDK plugin) or (SAP Web IDE for Full Stack + Mobile Service Development Plugin )
+3. Code
 
 ## How to Submit
 - [How to upload into Github](https://www.youtube.com/watch?v=Xlz9-wV1Uxs)
