@@ -1,3 +1,5 @@
+![CodeCamp](/misc/CodeCamp_Github.png)
+
 # Code-Camp
 SAP SME SEEDx Code Camp is an micro initiative targetting SME developers to get together and code with cross disciplines and organisations. The purpose is to create a cohesive community of continuous and open learning.
 
