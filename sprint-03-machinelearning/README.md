@@ -11,7 +11,7 @@ Front-end, Middle-tier, Backend or Full Stack Developer
 
 ## Main Tasks: 
 Create a Face ID for the customers in your SAP Business One or SAP ByD
-[IMPORTANT: Follow this video tutorial](https://www.youtube.com)
+[IMPORTANT: Follow this video tutorial](https://youtu.be/PNmwuBKQlr8)
 
 ## Important Timeline of Events:
 - 15 November 2019: Submission of Solution in GitHub
@@ -21,7 +21,7 @@ Create a Face ID for the customers in your SAP Business One or SAP ByD
 - Contact us via Slack if you face with any issues.
 
 ## Steps to Get Started
-[IMPORTANT: Follow this video tutorial](https://www.youtube.com)
+[IMPORTANT: Follow this video tutorial](https://youtu.be/PNmwuBKQlr8)
 1. [Get a Free Trial Account on SAP Cloud Platform](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
 2. [Install the Cloud Foundry Command Line Interface (CLI)](https://developers.sap.com/tutorials/cp-cf-download-cli.html)
 3. [Install the Machine Learning foundation plugin for SAP Cloud Platform CLI](https://developers.sap.com/tutorials/cp-mlf-install-sapmlcli.html)
